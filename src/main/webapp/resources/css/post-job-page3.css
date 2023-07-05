@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+.card {
+    width: 750px; /* Adjust the width as needed */
+    margin: 0 auto;
+}
+
+.blue-line {
+            position: relative;
+            height: 8px;
+            width: 100%;
+        }
+
+        .blue-line:before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-color: rgb(37, 87, 167);
+            width: 75%;
+            height: 100%;
+            background-image: none;
+        }

@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.card-body{
+    	margin-top:0px;
+    }
+    .card {
+    width: 750px; /* Adjust the width as needed */
+    margin: 0 auto;
+    }

@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+.left-div {
+      height: 250px;
+      border: 1px solid grey;
+      border-radius:8px;
+      max-height:300px;
+    }
+    
+     .right-div {
+      height: 1000px;
+      border: 1px solid grey;
+      border-radius:8px;
+      max-height:1000px;
+    }
+    
+    .bookmark {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.bookmark.clicked .bookmark-icon {
+  fill: currentColor;
+  stroke: none;
+}
+
+.bookmark.clicked .bookmark-icon path {
+  fill: currentColor;
+}
+
+
+

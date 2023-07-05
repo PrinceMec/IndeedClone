@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+body{
+	 /* background-color:#D3D3D3;  */
+	background-color:red;
+	font-size:200px;
+}
+
+.image {
+      text-align: center;
+    }
+
+    img {
+      max-width: 50%;
+      height: auto;
+    }
+    
+    .card {
+    width: 750px; /* Adjust the width as needed */
+    margin: 0 auto;
+    
+  }
+
+#provide-basic-info-img{
+	width:320px; 
+	height:200px;
+}
+
+.card{
+	border-radius: 20px;
+}  
+
+.blue-line {
+            position: relative;
+            height: 8px;
+            width: 100%;
+        }
+
+        .blue-line:before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-color: rgb(37, 87, 167);
+            width: 25%;
+            height: 100%;
+            background-image: none;
+        }
+  

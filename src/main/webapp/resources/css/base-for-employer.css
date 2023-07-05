@@ -1,0 +1,37 @@
+.sidebar {
+	  width: 200px;
+	  height: 100%;
+	  background-color: #000000; /* Black color */
+	  position: fixed;
+	  top: 0;
+	  left: 0;
+	  overflow: hidden;
+	  transition: width 0.5s;
+	}
+	
+	/* .sidebar.collapsed {
+	  width: 60px;
+	} */
+	
+	.toggle-btn {
+	  cursor: pointer;
+	  padding: 10px;
+	  text-align: center;
+	}
+	
+	.sidebar-options {
+	  list-style-type: none;
+	  padding: 0;
+	  margin: 0;
+	}
+	
+	.sidebar-options li {
+	  padding: 10px;
+	}
+	.sidebar {
+    float: left;
+  }
+
+  .navbar {
+    margin-left: 200px; /* Adjust the value to your desired spacing */
+  }

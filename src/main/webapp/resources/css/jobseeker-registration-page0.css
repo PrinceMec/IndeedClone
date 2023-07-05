@@ -1,0 +1,16 @@
+.blue-line {
+        position: relative;
+        height: 8px;
+        width: 100%;
+    }
+
+    .blue-line:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: rgb(37, 87, 167);
+        width: 10%;
+        height: 100%;
+        background-image: none;
+    }
