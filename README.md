@@ -1,4 +1,4 @@
-#INDEED CLONE
+# INDEED CLONE
 
 
 1. SPRING MVC-based Indeed Clone: Indeed Clone is built using the popular Spring MVC framework, which provides a robust and efficient architecture for developing web applications. By leveraging the power of Spring MVC, indeed clone ensure a scalable, flexible, and high-performing Indeed clone.
